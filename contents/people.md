@@ -1,10 +1,8 @@
 ### 주관기관
 **서울시복지재단**
-- Department of Earth and Planetary Sciences (EPS)
-- 위치: Cambridge, Massachusetts, USA
 
 ### 연구책임자
-**진효진진**
+**진효진**
 - 소속: 경상국립대학교, 컴퓨터공학부
 - 직위: 조교수
 - 이메일: hyojinchin[at]gnu.ac.kr

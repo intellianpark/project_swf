@@ -1,15 +1,11 @@
+사회적 고립 가구를 위한 스마트돌봄 서비스(스마트플러그, AI안부확인, 똑똑안부확인, AI안부든든, 1인가구 안부살핌, AI스피커) 데이터를 분석하여 이용자 특성(현황, 성향, 행동 패턴 등)에 따른 맞춤형 서비스 제공을 위한 가이드라인을을 개발
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
-#### Contact
-
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic. 
+| 구분       | 분석 항목                            | 활용 데이터                      | 결과 도출                        |
+|------------|---------------------------------------|-----------------------------------|----------------------------------|
+| 데이터분석 | 스마트플러그 (전력, 조도, 발화)      | 위기 신호 데이터 및 일반 현황 분석 | 현황, 성향, 행동 패턴 분석 및 조사 항목 개발 |
+|            | AI 안부 확인 (말화)                   |                                   |                                  |
+|            | 1인 가구 안부 살핌 (전력, 통신)       |                                   |                                  |
+|            | AI 안부 돌봄 (전력, 통신, 앱) *확인 필요 |                                |                                  |
+|            | 똑똑 안부 (통화, IoT 센서, 앱)        |                                   |                                  |
+|            | AI 스피커 (발화)                      |                                   |                                  |
+| 인터뷰     | 이용 시민 및 공무원 인터뷰            | 인터뷰 자료                      |                                  |
