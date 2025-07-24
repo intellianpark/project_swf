@@ -8,7 +8,4 @@
 - [스마트돌봄서비스 이용 가이드](static/resources/user_guide.txt)
 - [서비스 제공자 매뉴얼](static/resources/provider_manual.txt)
 
-## 기타 자료
-- [연구 프로젝트 개요](static/resources/project_overview.txt)
-- [데이터 수집 방법론](static/resources/methodology.txt)
 
