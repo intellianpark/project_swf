@@ -109,4 +109,110 @@ section .main-body{
     }
 }
 
+/* PDF 뷰어 스타일 */
+.pdf-viewer {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 20px 0;
+    display: none;
+}
+
+.pdf-viewer.active {
+    display: block;
+}
+
+.pdf-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.pdf-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.pdf-close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.pdf-close-btn:hover {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.pdf-link {
+    color: #3948d2;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.pdf-link:hover {
+    color: #2c3e50;
+    text-decoration: underline;
+}
+
+.pdf-toggle-btn {
+    background: #3948d2;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px 0;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+.pdf-toggle-btn:hover {
+    background: #2c3e50;
+}
+
+.pdf-section {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background: #f9f9f9;
+}
+
+.pdf-section h3 {
+    color: #3948d2;
+    margin-bottom: 15px;
+    font-size: 1.4rem;
+}
+
+.pdf-list {
+    list-style: none;
+    padding: 0;
+}
+
+.pdf-list li {
+    margin: 10px 0;
+    padding: 8px 12px;
+    background: white;
+    border-radius: 4px;
+    border-left: 4px solid #3948d2;
+    transition: all 0.3s ease;
+}
+
+.pdf-list li:hover {
+    background: #f0f0f0;
+    transform: translateX(5px);
+}
+
 
