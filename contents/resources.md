@@ -1,6 +1,6 @@
 
 ## 연구 보고서
-- [2024년 스마트돌봄서비스 현황 분석](static/resources/sample_report.txt)
+- [2024년 스마트돌봄서비스 현황 분석](static/resources/인공지능 기반의 사회적 고립가구 위기신호 탐지모델 개발.pdf)
 - [이용자 만족도 조사 결과](static/resources/satisfaction_survey.txt)
 
 ## 가이드라인
